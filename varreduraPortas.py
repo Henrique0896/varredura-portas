@@ -46,4 +46,4 @@ try:
             print(" %d      ->     fechada" %(i))
     print("\nVarredura encerrada!\n")
 except ValueError:
-      print('Erro! Verifique e tente novamente: {}'.format(ValueError))
+      print('Erro! Verifique e tente novamente: {} '.format(ValueError))
