@@ -54,6 +54,7 @@ try:
     print("Varredura encerrada!\n")
 except:
       print('Erro! Verifique e tente novamente')
+      exit()
 
 #Imprimindo as portas
 print("O host: %s " %(dispositivo))
